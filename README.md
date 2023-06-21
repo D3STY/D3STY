@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm D3STY</h1>
 <h3 align="center">CyberSec Operator from germany</h3>
 
-<p align="left"> <a href="https://twitter.com/specter161" target="blank"><img src="https://img.shields.io/twitter/follow/specter161?logo=twitter&style=for-the-badge" alt="specter161" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d3sty_" target="blank"><img src="https://img.shields.io/twitter/follow/d3sty_?logo=twitter&style=for-the-badge" alt="D3STY" /></a> </p>
 
 - 🌱 I’m currently learning **CompTIA A+**
 
