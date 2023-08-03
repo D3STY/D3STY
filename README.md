@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/d3sty_" target="blank"><img src="https://img.shields.io/twitter/follow/d3sty_?logo=twitter&style=for-the-badge" alt="D3STY" /></a> </p>
 
-- 🌱 I’m currently learning **CompTIA Linux+**
+- 🌱 I’m currently learning **CompTIA Net/Sec/Pen+**
 
 - 👯 I’m looking to collaborate on **CTF**
 
