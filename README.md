@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/D3STY](https://gitlab.com/D3STY)
 
-- 💬 Ask me about **drm, rsa, encryption, nmap, glftpd, irc**
+- 💬 Ask me about **drm , rsa, encryption, nmap, 0sec distributed FTP, irc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
