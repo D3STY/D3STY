@@ -5,7 +5,7 @@
 
 - 🔭 I’m previously worked on **Printer (Lexmark), Notebooks (Toshiba) & EDP (McAfee ePO)**
 
-- 🌱 I’m currently learning **for CompTIA Linux/Net/Sec/Pentest+**
+- 🌱 I’m currently learning **for CompTIA Security+ & Pentest+**
 
 - 👯 I’m looking to collaborate on **CTF and security research**
 
