@@ -14,7 +14,6 @@
 - 💬 Ask me about **drm , rsa, encryption, nmap, 0sec distributed FTP, irc**
 
 <img src="https://www.hackthebox.com/badge/image/1564172" alt="TryHackMe">
-[ ![D3STY](https://www.hackthebox.eu/badge/image/1891767)](https://www.hackthebox.eu/home/users/profile/1891767)
 <script src="https://tryhackme.com/badge/1891767"></script>
 
 <h3 align="left">Connect with me:</h3>
