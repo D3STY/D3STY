@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/d3sty_" target="blank"><img src="https://img.shields.io/twitter/follow/d3sty_?logo=twitter&style=for-the-badge" alt="d3sty_" /></a> </p>
 
-- 🔭 I’m previously worked on **Printer (Lexmark), Notebooks (Toshiba) & EDP (McAfee ePO)**
+- 🔭 I’m previously worked on **Printers, Notebooks & EDP (McAfee ePO)**
 
 - 🌱 I’m currently learning **for CompTIA Pentest+**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/D3STY](https://gitlab.com/D3STY)
 
-- 💬 Ask me about **drm , rsa, encryption, nmap, 0sec distributed FTP, irc**
+- 💬 Ask me about **drm , rsa, encrypted media extensions, encryption, nmap, 0sec distributed FTP, irc**
 
 <h3 align="left">HackTheBox</h3>
 <a href="https://app.hackthebox.com/profile/1564172" target="_blank" rel="noreferrer"> <img src="https://www.hackthebox.com/badge/image/1564172" alt="HackTheBox"> </a>
