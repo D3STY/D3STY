@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/d3sty_" target="blank"><img src="https://img.shields.io/twitter/follow/d3sty_?logo=twitter&style=for-the-badge" alt="d3sty_" /></a> </p>
 
-- 🔭 I’m previously worked on **Printers, Notebooks & EDP (McAfee ePO)**
+- 🔭 I’m previously worked on **Printers, Notebooks & EDP (McAfee ePO) in 1st, 2nd and 3th Level**
 
-- 🌱 I’m currently learning **for CompTIA Pentest+**
+- 🌱 I’m currently learning **for CompTiA Pentest+ & CompTiA CySA+**
 
 - 👯 I’m looking to collaborate on **CTF and security research**
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/D3STY](https://gitlab.com/D3STY)
+- 👨‍💻 All of my projects are available at [https://github.com/D3STY](https://github.com/D3STY)
 
-- 💬 Ask me about **drm , rsa, encrypted media extensions, encryption, nmap, 0sec distributed FTP, irc**
+- 💬 Ask me about **drm, encrypted media extensions, network and server architecture, cdn, irc**
 
 <h3 align="left">HackTheBox</h3>
 <a href="https://app.hackthebox.com/profile/1564172" target="_blank" rel="noreferrer"> <img src="https://www.hackthebox.com/badge/image/1564172" alt="HackTheBox"> </a>
