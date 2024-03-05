@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **drm, encrypted media extensions, network and server architecture, cdn, irc**
 
+<iframe src="https://api.eu.badgr.io/public/assertions/ZoQ92IaQS16g6ItAJ6UCvg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191" title="Badge: Chain Master" style="width: 330px; height: 191px; border: 0px;"></iframe> <iframe src="https://api.eu.badgr.io/public/assertions/2MTFqZVPSvuqap7eeI3_hQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191" title="Badge: Wutai Master" style="width: 330px; height: 191px; border: 0px;"></iframe>
+
 <h3 align="left">HackTheBox</h3>
 <a href="https://app.hackthebox.com/profile/1564172" target="_blank" rel="noreferrer"> <img src="https://www.hackthebox.com/badge/image/1564172" alt="HackTheBox"> </a>
 
