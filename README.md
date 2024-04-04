@@ -5,7 +5,7 @@
 
 - 🔭 I’m previously worked on **Printers, Notebooks & EDP (McAfee ePO) in 1st, 2nd and 3th Level**
 
-- 🌱 I’m currently learning **for CompTiA Pentest+ & CompTiA CySA+**
+- 🌱 I’m currently learning **C++ and C#**
 
 - 👯 I’m looking to collaborate on **CTF and security research**
 
