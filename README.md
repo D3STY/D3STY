@@ -1,5 +1,5 @@
 <h1 align="center">Oi folks 👋, I'm D3STY</h1>
-<h3 align="center">security researcher and ctf-player from germany</h3>
+<h3 align="center">junior pentester and ctf-player from germany</h3>
 
 <p align="left"> <a href="https://twitter.com/d3sty_" target="blank"><img src="https://img.shields.io/twitter/follow/d3sty_?logo=twitter&style=for-the-badge" alt="d3sty_" /></a> </p>
 
