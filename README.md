@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/d3sty_" target="blank"><img src="https://img.shields.io/twitter/follow/d3sty_?logo=twitter&style=for-the-badge" alt="d3sty_" /></a> </p>
 
-- 🔭 I’m previously worked on **Printers, Notebooks & EDP (McAfee ePO) in 1st, 2nd and 3th Level**
+- 🔭 I’m previously worked on **Printers, Notebooks & EDP in 1st, 2nd and 3th Level**
 
-- 🌱 I’m currently learning **C++ and C#**
+- 🌱 I’m currently learning for my **CPTS**
 
 - 👯 I’m looking to collaborate on **CTF and security research**
 
