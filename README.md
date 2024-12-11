@@ -5,7 +5,7 @@
 
 - 🔭 I’m previously worked on **Printers, Notebooks & EDP in 1st, 2nd and 3th Level**
 
-- 🌱 I’m currently learning for **[HTB CAPE](https://www.hackthebox.com/blog/htb-cape-announcement)**
+- 🌱 I’m currently learning for **[HTB CAPE](https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert)**
 
 - 👯 I’m looking to collaborate on **CTF and security research**
 
