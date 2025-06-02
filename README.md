@@ -1,33 +1,70 @@
 <h1 align="center">Oi folks 👋, I'm D3STY</h1>
-<h3 align="center">junior pentester and ctf-player from germany</h3>
+<h3 align="center">Pentester • AD & Network Exploiter • CTF Addict</h3>
 
-<p align="left"> <a href="https://twitter.com/d3sty_" target="blank"><img src="https://img.shields.io/twitter/follow/d3sty_?logo=twitter&style=for-the-badge" alt="d3sty_" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/d3sty_" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/d3sty_?logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  </a>
+</p>
 
-- 🔭 I’m previously worked on **Printers, Notebooks & EDP in 1st, 2nd and 3th Level**
+---
 
-- 👯 I’m looking to collaborate on **CTF and security research**
+## 🧠 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/D3STY](https://github.com/D3STY)
+- 🛠️ Focus: **Active Directory Attacks**, **Network Exploitation**, **Credential Abuse**, **Red Team TTPs**
+- 👾 Passion: **CTFs**, **Privilege Escalation Chains**, **Abusing Windows Internals**
+- 💻 Tools: `BloodHound`, `Responder`, `CrackMapExec`, `SharpHound`, `PowerView`, `nmap`, `rpcclient`, `impacket`
+- 📚 Always learning more about: ADCS, RBCD, unconstrained delegation, and NTLM relay pivot chains
 
-- 💬 Ask me about **ad, drm, encrypted media extensions, network and server architecture, cdn, irc**
+---
 
+## 🔥 Certifications & Badges
 
-<h3 align="left">VulnLab.com</h3>
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/GS4HK1OdQXKiZnIy7vsRlA"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-GS4HK1OdQXKiZnIy7vsRlA.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Machine Master</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>05.03.2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> D3STY</span></p>
+### 🟢 Hack The Box
+<a href="https://academy.hackthebox.com/achievement/badge/2398ccc5-3d6e-11f0-bcfd-bea50ffe6cb4" target="_blank" rel="noreferrer">
+  <img src="https://academy.hackthebox.com/storage/badges/ce43a59d097ba2a96ea9617d47bc7eeb/logo.png" alt="HTB Badge" width="120" height="120">
+</a>
 
-  ---
+### 🟣 VulnLab
+<div align="left">
+  <a href="https://api.eu.badgr.io/public/assertions/GS4HK1OdQXKiZnIy7vsRlA">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-GS4HK1OdQXKiZnIy7vsRlA.png" width="120" height="120">
+  </a>
+  <a href="https://api.eu.badgr.io/public/assertions/ZoQ92IaQS16g6ItAJ6UCvg">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-ZoQ92IaQS16g6ItAJ6UCvg.png" width="120" height="120">
+  </a>
+  <a href="https://api.eu.badgr.io/public/assertions/2MTFqZVPSvuqap7eeI3_hQ">
+    <img src="https://media.eu.badgr.com/uploads/badges/assertion-2MTFqZVPSvuqap7eeI3_hQ.png" width="120" height="120">
+  </a>
+</div>
 
-<a href="https://api.eu.badgr.io/public/assertions/ZoQ92IaQS16g6ItAJ6UCvg"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-ZoQ92IaQS16g6ItAJ6UCvg.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Chain Master</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>17.02.2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> D3STY</span>
+### 🔴 TryHackMe
+<a href="https://tryhackme.com/p/D3STY" target="_blank" rel="noreferrer">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/D3STY.png" alt="TryHackMe" width="120" height="120">
+</a>
 
-  ---
+---
 
-<a href="https://api.eu.badgr.io/public/assertions/2MTFqZVPSvuqap7eeI3_hQ"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-2MTFqZVPSvuqap7eeI3_hQ.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Wutai Master</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>14.02.2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> D3STY</span></p></blockquote>
+## 📂 Projects
 
-<h3 align="left">HackTheBox</h3>
-<a href="https://academy.hackthebox.com/achievement/badge/2398ccc5-3d6e-11f0-bcfd-bea50ffe6cb4" target="_blank" rel="noreferrer"> <img src="https://academy.hackthebox.com/storage/badges/ce43a59d097ba2a96ea9617d47bc7eeb/logo.png" alt="HackTheBox"> </a>
+- 🔗 [All Repos & Writeups on GitHub](https://github.com/D3STY)
+- 🔬 Focus: internal AD attacks, lateral movement chains, defensive evasion
+- 🧰 Tools I've built: custom enumeration scripts, LDAP/AD tooling, AMSI bypass tests
 
-<h3 align="left">TryHackMe</h3>
-<a href="https://tryhackme.com/p/D3STY" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/D3STY.png" alt="TryHackMe"> </a>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+## 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353657/powershell.svg" alt="powershell" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="40" height="40"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 🐦 Twitter: [@d3sty_](https://twitter.com/d3sty_)
+- 📧 Reach out via GitHub or DM
