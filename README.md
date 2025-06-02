@@ -5,13 +5,11 @@
 
 - 🔭 I’m previously worked on **Printers, Notebooks & EDP in 1st, 2nd and 3th Level**
 
-- 🌱 I’m currently learning for **[HTB CAPE](https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert)**
-
 - 👯 I’m looking to collaborate on **CTF and security research**
 
 - 👨‍💻 All of my projects are available at [https://github.com/D3STY](https://github.com/D3STY)
 
-- 💬 Ask me about **drm, encrypted media extensions, network and server architecture, cdn, irc**
+- 💬 Ask me about **ad, drm, encrypted media extensions, network and server architecture, cdn, irc**
 
 
 <h3 align="left">VulnLab.com</h3>
@@ -26,7 +24,7 @@
 <a href="https://api.eu.badgr.io/public/assertions/2MTFqZVPSvuqap7eeI3_hQ"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-2MTFqZVPSvuqap7eeI3_hQ.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Wutai Master</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>14.02.2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> D3STY</span></p></blockquote>
 
 <h3 align="left">HackTheBox</h3>
-<a href="https://app.hackthebox.com/profile/1564172" target="_blank" rel="noreferrer"> <img src="https://www.hackthebox.com/badge/image/1564172" alt="HackTheBox"> </a>
+<a href="https://academy.hackthebox.com/achievement/badge/2398ccc5-3d6e-11f0-bcfd-bea50ffe6cb4" target="_blank" rel="noreferrer"> <img src="https://academy.hackthebox.com/storage/badges/ce43a59d097ba2a96ea9617d47bc7eeb/logo.png" alt="HackTheBox"> </a>
 
 <h3 align="left">TryHackMe</h3>
 <a href="https://tryhackme.com/p/D3STY" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/D3STY.png" alt="TryHackMe"> </a>
