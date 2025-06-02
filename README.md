@@ -40,7 +40,7 @@
 
 ### 🔴 TryHackMe
 <a href="https://tryhackme.com/p/D3STY" target="_blank" rel="noreferrer">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/D3STY.png" alt="TryHackMe" width="120" height="120">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/D3STY.png" alt="TryHackMe">
 </a>
 
 ---
