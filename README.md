@@ -49,7 +49,7 @@
 
 - 🔗 [All Repos & Writeups on GitHub](https://github.com/D3STY)
 - 🔬 Focus: internal AD attacks, lateral movement chains, defensive evasion
-- 🧰 Tools I've built: custom enumeration scripts, LDAP/AD tooling, AMSI bypass tests
+- 🧰 Tools I've built: custom enumeration scripts, LDAP/AD tooling, AMSI bypass
 
 ---
 
@@ -58,7 +58,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/353657/powershell.svg" alt="powershell" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/473762/powershell.svg" alt="powershell" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="40" height="40"/>
 </p>
 
@@ -67,4 +67,3 @@
 ## 📫 Contact
 
 - 🐦 Twitter: [@d3sty_](https://twitter.com/d3sty_)
-- 📧 Reach out via GitHub or DM
