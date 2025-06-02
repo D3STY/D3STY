@@ -13,7 +13,7 @@
 
 - 🛠️ Focus: **Active Directory Attacks**, **Network Exploitation**, **Credential Abuse**, **Red Team TTPs**
 - 👾 Passion: **CTFs**, **Privilege Escalation Chains**, **Abusing Windows Internals**
-- 💻 Tools: `BloodHound`, `Responder`, `CrackMapExec`, `SharpHound`, `PowerView`, `nmap`, `rpcclient`, `impacket`
+- 💻 Tools: `BloodHound`, `Responder`, `NetExec`, `SharpHound`, `PowerView`, `nmap`, `rpcclient`, `impacket`
 - 📚 Always learning more about: ADCS, RBCD, unconstrained delegation, and NTLM relay pivot chains
 
 ---
