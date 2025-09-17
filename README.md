@@ -38,7 +38,7 @@
 </div>
 
 ### 🔴 TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1891767" style='border:none;'></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1891767" style='border:none;'></img>
 
 ---
 
