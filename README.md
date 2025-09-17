@@ -38,9 +38,7 @@
 </div>
 
 ### 🔴 TryHackMe
-<a href="https://tryhackme.com/p/D3STY" target="_blank" rel="noreferrer">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/D3STY.png" alt="TryHackMe">
-</a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1891767" style='border:none;'></iframe>
 
 ---
 
