@@ -13,7 +13,7 @@
 
 - 🛠️ Focus: **Active Directory Attacks**, **Network Exploitation**, **Credential Abuse**, **Red Team TTPs**
 - 👾 Passion: **CTFs**, **Privilege Escalation Chains**, **Abusing Windows Internals**
-- 📚 Always learning more about: ADCS, RBCD, unconstrained delegation, and NTLM relay pivot chains
+- 📚 Always learning more about: EntraID, Azure and NTLM relay pivot chains
 
 ---
 
