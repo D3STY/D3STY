@@ -24,6 +24,10 @@
   <img src="https://academy.hackthebox.com/storage/badges/ce43a59d097ba2a96ea9617d47bc7eeb/logo.png" alt="HTB Badge" width="120" height="120">
 </a>
 
+<a href="https://academy.hackthebox.com/achievement/badge/dd49d103-229e-11f1-9254-bea50ffe6cb4" target="_blank" rel="noreferrer">
+  <img src="https://academy.hackthebox.com/achievement/badge/dd49d103-229e-11f1-9254-bea50ffe6cb4/logo.png" alt="HTB Badge" width="120" height="120">
+</a>
+
 ### 🟣 VulnLab
 <div align="left">
   <a href="https://api.eu.badgr.io/public/assertions/GS4HK1OdQXKiZnIy7vsRlA">
